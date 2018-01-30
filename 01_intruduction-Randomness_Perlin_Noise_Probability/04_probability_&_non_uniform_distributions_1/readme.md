@@ -16,3 +16,4 @@ In order to influence the probability of the directions, an array named probArra
         var index = floor(random(probArray.length));
         var r = probArray[index];
 ```
+[see code in action](index.html)

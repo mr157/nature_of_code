@@ -31,7 +31,7 @@ function Walker() {
         var index = floor(random(probArray.length));
         var r = probArray[index];
         
-        this.x = constrain(this.x, 0, width - 1);
-        this.y = constrain(this.y, 0, height - 1);
+        this.x = constrain(this.x+r, 0, width - 1);
+        this.y = constrain(this.y+r, 0, height - 1);
     }
 }

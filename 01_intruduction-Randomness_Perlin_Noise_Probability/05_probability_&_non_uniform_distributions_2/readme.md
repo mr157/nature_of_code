@@ -15,3 +15,4 @@ In order to influence the directional probabilities, an if loop has been built i
         else {this.y--;}
         
 ```
+[see code in action](index.html)

@@ -3,6 +3,6 @@ git remote add origin https://github.com/mr157/nature_of_code
 
 git add .
 git status
-git commit -m " xxx" 
+git commit -m "rondomess & probability" 
 
 git push -u origin master

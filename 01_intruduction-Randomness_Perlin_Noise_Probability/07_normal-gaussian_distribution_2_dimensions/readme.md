@@ -42,3 +42,4 @@ ellipse () function, so that every time a circle is drawn, a new position of the
 ```javascript
   ellipse(xloc, yloc, 16, 16);
 ```
+[see code in action](index.html)

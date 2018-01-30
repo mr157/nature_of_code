@@ -37,3 +37,4 @@ In order to determine the random x position of the circles in our example and to
 ```javascript
      ellipse(xloc, height / 2, 16, 16);       
 ```
+[see code in action](index.html)
