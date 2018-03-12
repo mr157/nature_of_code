@@ -8,7 +8,7 @@
 7. [Vector Magnitude](07_Vector_Magnitude)
 8. [Vector Normalising](08_Vector_Normalising)
 9. [Vector Motion - Velocity](09_Vector_Motion-Velocity)
-10. [Vector Motion - Acceleration](10_Vector_Motion - Acceleration)
+10. [Vector Motion - Acceleration](10_Vector_Motion-Acceleration)
 11. [Vector Motion - Random Acceleration](11_Vector_Motion-Random_Acceleration)
 12. [Vector Motion - Acceleration towards Mouse](12_Vector_Motion-_Acceleration_towards_Mouse)
 13. [Vector Motion - Acceleration towards Mouse with multible Objects](13_Vector_Motion-_Acceleration_towards_Mouse-Multible_Objects)
