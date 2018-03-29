@@ -3,6 +3,7 @@ var movers = [];
 
 function setup() {
     createCanvas(640, 640);
+    // values (_xpos,_ypos,_windMag,_startAngle,_endAngle)
     windchimes[0] = new WindChime(550,550,4.5,180,270);
     windchimes[1] = new WindChime(50,50,4.2,0,90);
     windchimes[2] = new WindChime(50,550,4.3,270,360);
@@ -11,6 +12,7 @@ function setup() {
     //(x, y, vx, vy, ax, ay, m)
     
     for (var x=0; x<1000;x++){   
+        // values (position x, position y, velocity in x, velocity in y,acceleration in x,acceleration in ay, mass)
         movers [x] = new Mover(random(0,640),random(0,640),0,0,0,0,random(0,5));
     }
 } 

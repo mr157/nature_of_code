@@ -1,8 +1,0 @@
-git remote add origin https://github.com/mr157/nature_of_code
-
-
-git add .
-git status
-git commit -m "add chapter Vector 01-08" 
-
-git push -u origin master
